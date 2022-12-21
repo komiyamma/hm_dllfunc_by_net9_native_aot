@@ -1,0 +1,9 @@
+﻿#a = loaddll(currentmacrodirectory + @"\ClassLibrary8.dll");
+
+#r = dllfuncw(#a, "doubleint", 3);
+
+message(str(#r));
+
+$r2 = dllfuncstrw(#a, "sumstring", "あいうえお♬");
+
+message($r2);

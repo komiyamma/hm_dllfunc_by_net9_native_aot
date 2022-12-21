@@ -1,0 +1,2 @@
+C:\Users\master\source\repos\ClassLibrary8\ClassLibrary8\bin\Release\net7.0\publish\win-x64\ClassLibrary8.dll
+C:\Users\master\source\repos\ClassLibrary8\ClassLibrary8\bin\Release\net7.0\publish\win-x64\ClassLibrary8.pdb
