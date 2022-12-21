@@ -4,6 +4,6 @@
 
 message(str(#r));
 
-$r2 = dllfuncstrw(#a, "sumstring", "あいうえお♬");
+$r2 = dllfuncstrw(#a, "sumstring", "あいうえお♬", "かきくけこ♬");
 
 message($r2);
