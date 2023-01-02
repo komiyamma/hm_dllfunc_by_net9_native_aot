@@ -2,7 +2,7 @@
 
 - .NET7 の NativeAOT
 - cdeclのネイティブdllのサンプル (秀丸loaddll用のdllなど)
-- AOTNativeはx64のみなので注意 (x86は対象外)
+- NativeAOTはx64のみなので注意 (x86は対象外)
 
 ![Native Dll Sample](https://img.shields.io/badge/Native_Dll-Sample-6479ff.svg)
 ![Hidemaru 8.01 x64](https://img.shields.io/badge/Hidemaru_v8.01-x64_only-6479ff.svg)
