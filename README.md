@@ -1,4 +1,4 @@
-# hm_dllfunc_by_net7aotnative
+# hm_dllfunc_by_net7_native_aot
 
 - .NET7 の NativeAOT
 - cdeclのネイティブdllのサンプル (秀丸loaddll用のdllなど)
