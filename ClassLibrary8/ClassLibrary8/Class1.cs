@@ -20,11 +20,13 @@ namespace ClassLibrary8
             // Concatenate strings 
             ret_sum_string = my1String + my2String;
 
-            // Assign pointer of the concatenated string to sumPointer
-            IntPtr sumPointer = Marshal.StringToHGlobalUni(ret_sum_string);
-
-            // Return pointer
-            return sumPointer;
+            unsafe
+            {
+                fixed (char* p = ret_sum_string)
+                {
+                    return (IntPtr)p;
+                }
+            }
         }
     }
 }
