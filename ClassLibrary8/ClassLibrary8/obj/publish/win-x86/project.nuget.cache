@@ -1,23 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "HNyocYBT+hHi2TxpKrw8O62q0uCtBidg/GlTxed/4CaR1sajsIH870mX7UUsV6KIr6/0Xu4KLEMTy1t0mZ7C5w==",
-  "success": false,
-  "projectFilePath": "C:\\Users\\master\\source\\repos\\ClassLibrary8\\ClassLibrary8\\ClassLibrary8.csproj",
+  "dgSpecHash": "SHLG0Aiio6M=",
+  "success": true,
+  "projectFilePath": "G:\\repogitory\\hm_dllfunc_by_net9_native_aot\\ClassLibrary8\\ClassLibrary8\\ClassLibrary8.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\master\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.1\\microsoft.netcore.app.runtime.win-x86.7.0.1.nupkg.sha512",
-    "C:\\Users\\master\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.1.nupkg.sha512",
-    "C:\\Users\\master\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.1\\microsoft.aspnetcore.app.runtime.win-x86.7.0.1.nupkg.sha512",
-    "C:\\Users\\master\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\7.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.7.0.1.nupkg.sha512"
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.8\\microsoft.dotnet.ilcompiler.9.0.8.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.8\\microsoft.net.illink.tasks.9.0.8.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\runtime.win-x86.microsoft.dotnet.ilcompiler\\9.0.8\\runtime.win-x86.microsoft.dotnet.ilcompiler.9.0.8.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\9.0.8\\microsoft.netcore.app.runtime.win-x86.9.0.8.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\9.0.8\\microsoft.windowsdesktop.app.runtime.win-x86.9.0.8.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\9.0.8\\microsoft.aspnetcore.app.runtime.win-x86.9.0.8.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.8.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "パッケージ runtime.win-x86.Microsoft.DotNet.ILCompiler が見つかりません。ソース C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org には、この ID のパッケージが存在しません。",
-      "libraryId": "runtime.win-x86.Microsoft.DotNet.ILCompiler",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

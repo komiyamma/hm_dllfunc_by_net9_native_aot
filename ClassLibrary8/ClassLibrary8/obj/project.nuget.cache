@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SP6NCQTCzISW1nW9Vwndm6ml+i83XmectlPcTZ0x8nDYV8pkRshN+/8Prqzu6O2Spprjjr3OLfB/jGh+oOxg8g==",
+  "dgSpecHash": "nBsC+cBezaI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\master\\source\\repos\\ClassLibrary8\\ClassLibrary8\\ClassLibrary8.csproj",
+  "projectFilePath": "G:\\repogitory\\hm_dllfunc_by_net9_native_aot\\ClassLibrary8\\ClassLibrary8\\ClassLibrary8.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\master\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\7.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.7.0.1.nupkg.sha512"
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\7.0.20\\microsoft.dotnet.ilcompiler.7.0.20.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.8\\microsoft.net.illink.tasks.9.0.8.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\7.0.20\\runtime.win-x64.microsoft.dotnet.ilcompiler.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }
