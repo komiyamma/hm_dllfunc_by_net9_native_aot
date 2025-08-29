@@ -7,4 +7,4 @@
 ![Native Dll Sample](https://img.shields.io/badge/Native_Dll-Sample-6479ff.svg)
 ![Hidemaru 8.01](https://img.shields.io/badge/Hidemaru-v8.01-6479ff.svg)
 ![.NET 9.0 NativeAOT](https://img.shields.io/badge/.NET_v9.0-NativeAOT-6479ff.svg)
-![x64|x86](https://img.shields.io/badge/x64|x86-both-6479ff.svg)
+![x64 | x86](https://img.shields.io/badge/x64_|_x86-both-6479ff.svg)
